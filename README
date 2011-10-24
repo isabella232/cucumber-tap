@@ -1,0 +1,1 @@
+A simple TAP formatter class for cucumber, so you can integrate cucumber tests into your TAP-based CI environment.
